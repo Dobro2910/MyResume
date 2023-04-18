@@ -1,2 +1,14 @@
+.Header {
+    height: 30vh;
+}
 
+.banner-about {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+}
 
+.banner-about .about-text img {
+    width: 500px;
+    height: 700px;
+}
