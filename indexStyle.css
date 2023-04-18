@@ -222,4 +222,8 @@ body {
     .Header .banner img {
         display: none;
     }  
+    
+    .Header .banner .app-text {
+        padding-left: 200px;
+    }
 }
