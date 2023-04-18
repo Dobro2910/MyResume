@@ -46,7 +46,27 @@
         justify-content: center;
         align-items: center;
         text-align: center;
-        gap: 50px; /* add 10px space between items */
+        gap: 20px; /* add 10px space between items */
     }
+    
+.banner-about .linkin {
+    color: inherit;
+    width: 50px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.banner-about .email {
+    width: 200px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.banner-about .website {
+    color: inherit;
+    width: 50px;
+    color: #fff;
+    font-size: 15px;
+}
     
 }
