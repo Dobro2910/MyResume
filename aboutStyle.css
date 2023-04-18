@@ -19,10 +19,10 @@
 
 @media only screen and (max-width: 900px) {
     body {
-    height: auto;
-    width: auto;
-    background-image: url(images/phone_img.PNG);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+        height: auto;
+        width: auto;
+        background-image: url(images/phone_img.PNG);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
 }
