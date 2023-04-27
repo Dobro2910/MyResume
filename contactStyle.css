@@ -11,14 +11,14 @@
     gap: 200px; /* add 10px space between items */
 }
 
-.banner-about .linkin {
+.banner-about .linkedin {
     color: inherit;
     width: 80px;
     color: #fff;
     font-size: 20px;
 }
 
-.banner-about .linkin a {
+.banner-about .linkedin a {
     color: inherit;
 }
 
@@ -50,7 +50,7 @@
         gap: 20px; /* add 10px space between items */
     }
     
-.banner-about .linkin {
+.banner-about .linkedin {
     color: inherit;
     width: 50px;
     color: #fff;
